@@ -42,6 +42,7 @@ OR
 1.2.2  In the next screen click the "Directory.." button and chosse the unzipped project's folder
 
 **2. Build Gradle**
+
 2.1 Locate the imported project on your IDE Project explorer and right-click on it
 2.2 Configure → Add Gradle Nature
 
