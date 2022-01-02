@@ -58,9 +58,9 @@ Now you can access the application at http://localhost:8094/ in your browser
 
 ## H2 DB GUI Console
 
-In order to test the app , a h2 GUI (aka. spring.h2.console.enabled=true) configuration were added.
+In order to test the app , a H2 GUI (aka. spring.h2.console.enabled=true) configuration were added.
 after runing the application, navigate in your browser to : http://localhost:8094/h2-console
-fextarct from the console log  of your IDE the 'jdbc line' value and paste it into JDBC URL text box and afterwards press the connect button:
+extarct from the console log  of your IDE the 'jdbc line' value and paste it into JDBC URL text box and afterwards press the connect button:
 
 ![alt text](/Screenshots/H2connect.PNG?raw=true)
 
