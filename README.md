@@ -39,6 +39,7 @@ OR
 **1.2 In IDE (If you prefer to download the zip)**
 
 1.2.1 File → Import → Select An Import Wizard → General → Projects From Folder Or Archive → next
+
 1.2.2  In the next screen click the "Directory.." button and chosse the unzipped project's folder
 
 **2. Build Gradle**
